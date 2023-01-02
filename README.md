@@ -1,2 +1,2 @@
 # useful-features
-편리한 기능 모음
+- 편리한 기능 모음
